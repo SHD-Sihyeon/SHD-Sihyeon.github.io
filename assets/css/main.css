@@ -225,7 +225,7 @@ input, select, textarea {
 
 	h1 {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 5rem;
+		font-size: 3.8rem;
 		font-weight: 700;
 		letter-spacing: -0.05em;
 		line-height: 1.1;
@@ -2868,7 +2868,7 @@ input, select, textarea {
 			display: inline-block;
 			height: 100%;
 			position: relative;
-			width: 3rem;
+			width: 2.5rem;
 		}
 
 /* Gallery */
@@ -3442,7 +3442,7 @@ input, select, textarea {
 			}
 
 		#wrapper > section.intro > header > * {
-			width: 30rem;
+			width: 20rem;
 		}
 
 		#wrapper > section.intro > header:before {
